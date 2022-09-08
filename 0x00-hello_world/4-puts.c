@@ -3,7 +3,7 @@
 /**
  * main - a program to print a string.
  *
- * Description : This string prints Programming is like building a multilingual puzzle,
+ * Description : This prints Programming is like building a multilingual puzzle
  *
  * Return: 0
  */
