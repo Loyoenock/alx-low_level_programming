@@ -1,9 +1,10 @@
 #include <stdio.h>
 
-/*
- * Main - Printing a string with put
+/**
+ * Main - Using the put function
  *
- * Description:'Prints programming is like building a multilingual puzzel'
+ * Description: This program is for returning a string of text.
+ * Prints programming is like building a multilingual puzzel
  *
  * Return: 0
  */
