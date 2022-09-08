@@ -1,2 +1,2 @@
-#!/bin
+#!/bin/bash
 gcc -E $CFILE -o c' > 0-preprocessor
