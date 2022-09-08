@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * Main - Using the put function to return string
+ * Main - prints a string in a put function
  *
  * Description: This program is for returning a string of text.
  * Prints programming is like building a multilingual puzzel
  *
- * Return: 0
+ * Return: always 0 (Successful) 
  */
 int main(void)
 {
