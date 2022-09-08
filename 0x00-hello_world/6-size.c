@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main: 'Computer types and sizes'
+ * main: 'Compiling differenttypes of computers'
  *
  * Description: 'Prints different computer sizes'
  *
- * Returns (0)
+ * Returns: '0 prints program is successfull'
  */
 int main(void)
 {
