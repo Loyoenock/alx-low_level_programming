@@ -3,9 +3,9 @@
 /*
  * Main - Printing a string with put
  *
- * Description - Prints programming is like building a multilingual puzzel
+ * Description:'Prints programming is like building a multilingual puzzel'
  *
- * Returns: 0
+ * Return: 0
  */
 int main(void)
 {
