@@ -1,8 +1,8 @@
 #include <stdio.h>
 
  /**
- * main - printf function
- *
+ * main - prints strings using printf
+ * 
  * Description:  'prints with proper grammar outputs a piece of art'
  *
  * Return (0)
