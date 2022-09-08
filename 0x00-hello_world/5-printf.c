@@ -13,3 +13,16 @@ include <stdio.h>
 	 return (0);
 
  }
+#include <stdio.h>
+/**
+* main - prints put function string
+*
+*Uses the main function
+*this program prints "programming is like building a multilingual puzzle"
+*Returns - 0
+*/
+int main(void)
+{
+	printf("with propergrammar, but the outcome is a piece of art,\n);
+	return(0);
+}
