@@ -3,9 +3,9 @@
  /**
  * main - prints strings using printf
  * 
- * Description:  'prints with proper grammar outputs a piece of art'
+ * Description : prints with proper grammar outputs a piece of art
  *
- * Return (0)
+ * Return: 0
  */
 int main(void)
 {
