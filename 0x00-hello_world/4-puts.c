@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Main - Using the put function
+ * Main - Using the put function to return string
  *
  * Description: This program is for returning a string of text.
  * Prints programming is like building a multilingual puzzel
