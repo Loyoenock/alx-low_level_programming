@@ -5,7 +5,7 @@
  * 
  * Description: 'Prints different computer sizes'
  *
- * Returns: 'this program uses printf to print size of various types on the computer'
+ * Returns: 'this program list different types of computers when zero returns'
  */
 int main(void)
 {
