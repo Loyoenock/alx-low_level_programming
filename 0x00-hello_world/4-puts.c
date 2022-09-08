@@ -6,8 +6,8 @@
  * Description: This program is for returning a string of text.
  * Prints programming is like building a multilingual puzzel
  *
- * Return: always 0 (Successful) 
- */
+ * Return: 0
+ * /
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
