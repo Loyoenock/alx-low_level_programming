@@ -3,7 +3,7 @@
 /*
  * Main - Printing a string with put
  *
- *Prints programming is like building a multilingual puzzel
+ *Descriptin - Prints programming is like building a multilingual puzzel
  *
  *Returns: 0
  */
