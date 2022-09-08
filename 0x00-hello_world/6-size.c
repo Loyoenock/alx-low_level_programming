@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Computers
+ * main: 'Computer types and sizes'
  *
  * Description: 'Prints different computer sizes'
  *
