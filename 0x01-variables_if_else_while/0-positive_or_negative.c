@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - this program will assign positive and negative random numbers
+ * main - this will print  positive, negative or zero random numbers
  *
  * Description : Function to generate random numbers
  *
@@ -14,8 +14,8 @@ int main(void)
 	int n;
 
 	srand(timeout(0));
-	n = rand() - RAND_MAX/2;
-	if (n > 0) 
+	n = rand() - RAND_MAX / 2;
+	if (n > 0)
 	{
 		printf("%d is positive\n", n);
 	}
