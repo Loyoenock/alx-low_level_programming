@@ -2,7 +2,7 @@
 
 /**
  * main - prints put function string
- * 
+ *
  * Description: uses the main function
  * This program prints sizes of different computer components
  * Return: 0
