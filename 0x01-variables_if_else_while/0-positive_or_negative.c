@@ -1,6 +1,6 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
 /**
  * main - this will print  positive, negative or zero random numbers
@@ -13,7 +13,7 @@ int main(void)
 {
 	int n;
 
-	srand(timeout(0));
+	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
 	{
