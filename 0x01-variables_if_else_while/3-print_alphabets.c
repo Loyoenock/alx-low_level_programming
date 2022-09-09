@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 /**
  * main - this program prints both lower and upper alph letter and begins a line *
