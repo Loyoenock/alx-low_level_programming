@@ -16,7 +16,7 @@ int main(void)
 	{
 		if (al != 'e' && al != 'q')
 		{
-			putcher(al);
+			putchar(al);
 		}
 	}
 
