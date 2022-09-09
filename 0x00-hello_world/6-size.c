@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include <stdi0.h>
 
 /**
- * main - printf string for compiling computers
- * 
- * Description: Prints the size various type on the computers
+ * main a program to print sizes
  *
- * Returns: 0
+ * Description : This program prints sizes of different computer components
+ *
+ * Return: 0
  */
 int main(void)
 {
@@ -14,7 +14,7 @@ int main(void)
 	long int c;
 	long long int d;
 	float e;
-
+	
 	printf("Size of a char: %d byte(s)\n", sizeof(a));
 	printf("Size of an int: %d byte(s)\n", sizeof(b));
 	printf("Size of a long int: %ld byte(s)\n", sizeof(c));
@@ -22,3 +22,4 @@ int main(void)
 	printf("Size of a float: %d byte(s)\n", sizeof(e));
 	return (0);
 }
+
