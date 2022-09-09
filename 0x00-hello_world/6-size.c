@@ -3,8 +3,8 @@
 /**
  * main a program to print sizes
  *
- * Description : This program prints sizes of different computer components
- *
+ * Description :Here is main function
+ * This program prints sizes of different computer components
  * Return: 0
  */
 int main(void)
