@@ -3,7 +3,7 @@
 /**
  * main - prints put function string
  * 
- * Description : uses the main function
+ * Description: uses the main function
  * This program prints sizes of different computer components
  * Return: 0
  */
@@ -22,4 +22,3 @@ int main(void)
 	printf("Size of a float: %d byte(s)\n", sizeof(e));
 	return (0);
 }
-
