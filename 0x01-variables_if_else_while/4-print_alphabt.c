@@ -14,7 +14,7 @@ int main(void)
 
 	for (al = 'a' ; al <= 'z' ; al++)
 	{
-		if (al != 'e' && al I= 'q')
+		if (al != 'e' && al != 'q')
 		{
 			putcher(al);
 		}
