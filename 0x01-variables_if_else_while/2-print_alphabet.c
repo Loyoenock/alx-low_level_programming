@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * Main - Program for printing alphabet in lowercase.
+ * Main - Program for printing alphabet in lowercase followed by newline.
  *
- * Description: Funtion to print lowecase letters
- *After printing the alphabet is followed by a newline.
+ * Description: Funtion to print lowecase letters from a-z in ascending order.
+ *
  * Return: 0
  */
 int main(void)
