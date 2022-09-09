@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main a program to print sizes
- *
- * Description :Here is main function
+ * main  -prints put function string
+ * 
+ * Description : uses the main function
  * This program prints sizes of different computer components
  * Return: 0
  */
