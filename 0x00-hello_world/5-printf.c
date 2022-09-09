@@ -1,9 +1,9 @@
 #include <stdio.h>
 
- /**
- * main - prints strings using printf
- * 
- * Description : prints with proper grammar outputs a piece of art
+/**
+ * main - a program for printing a string
+ *
+ * Description : This prints with proper grammar piece of art
  *
  * Return: 0
  */
