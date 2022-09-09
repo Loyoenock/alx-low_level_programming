@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main: 'printf string for compiling computers'
+ * main - printf string for compiling computers
  * 
- * Description: 'Prints different computer sizes'
+ * Description: Prints the size various type on the computers
  *
- * Returns: 'this program list different types of computers when zero returns'
+ * Returns: 0
  */
 int main(void)
 {
