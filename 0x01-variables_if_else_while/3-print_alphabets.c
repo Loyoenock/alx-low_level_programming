@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - this program prints both lower and upper alph letter and begins a line *
+ * main - this program prints lower and upper alph letter and begins a line
+ *
  * Descrition: This is a putchar function the prints alphas.
  *
  * Return: 0
