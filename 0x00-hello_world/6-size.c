@@ -1,4 +1,4 @@
-#include <stdi0.h>
+#include <stdio.h>
 
 /**
  * main a program to print sizes
