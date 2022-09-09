@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Main - Program for printing alphabet in lowercase followed by newline.
+ * main - Program for printing alphabet in lowercase followed by newline.
  *
  * Description: Funtion to print lowecase letters from a-z in ascending order.
  *
