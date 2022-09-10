@@ -4,12 +4,11 @@
 
 /**
  * main - This program assign variable to random number
- * 
- * Description: Function to print random numbers
  *
- *  Return: 0
+ * Description : The function prints random number
+ *
+ * Return: 0
  */
-
 int main(void)
 
 {
