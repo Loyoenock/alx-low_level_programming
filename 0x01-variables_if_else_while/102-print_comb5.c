@@ -21,8 +21,8 @@ int main(void)
 				putchar((a % 10) + '0');
 				putchar(' ');
 				putchar((b / 10) + '0');
-				putchar((p % 10) + '0');
-				if (i != 98)
+				putchar((b % 10) + '0');
+				if (a != 98)
 				{
 					putchar(',');
 					putchar(' ');
