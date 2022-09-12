@@ -3,7 +3,7 @@
 /**
  * main - possible combination of 3 digits
  *
- * Description: Using putchar function to print all possible combination - 3 digits
+ * Description: putchar function to print all possible combination - 3 digits
  *
  * Return: 0
  */
@@ -11,7 +11,7 @@ int main(void)
 {
 	int a, b, c;
 
-	for (a = 0; a <= 9; a ++)
+	for (a = 0; a <= 9; a++)
 	{
 		for (b = 1; b <= 9; b++)
 		{
