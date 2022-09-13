@@ -2,8 +2,8 @@
 
 /**
  * print_sign - prints the sign of a number'
- *  @c: function parameter to print a sign of a number'
- *  Return:0
+ * @c: function parameter to print a sign of a number'
+ * Return:0
  */
 int print_sign(int n)
 {
