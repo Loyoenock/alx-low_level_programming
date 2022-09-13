@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * void times_table - Multples of 9 0 inclusive
+ * times_table - Multples of 9 0 inclusive
  */
 void times_table(void)
 {
@@ -14,7 +14,7 @@ void times_table(void)
 		{
 		_putchar(',');
 		_putchar(' ');
-		
+	
 		p = n * m;
 
 		if (p <= 9)
