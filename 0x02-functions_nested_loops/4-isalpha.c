@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * -isalpha.c - functions that checks for alph  letters.
+ * _isalpha - functions that checks for alph  letters.
  *
  *  Return: 0
  */
