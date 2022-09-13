@@ -5,7 +5,7 @@
  * n starting  00:00 to 23:59, loops every min and hour.
  * Return: 0
  */
-void jack_bauer(void);
+void jack_bauer(void)
 {
 	int hrs = 0;
 	int mins = 0;
