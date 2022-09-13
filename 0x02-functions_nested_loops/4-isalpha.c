@@ -2,7 +2,7 @@
 
 /**
  * _isalpha - functions that checks for alph  letters.
- *
+ * @c: The argument used to return the function
  *  Return: 0
  */
 int _isalpha(int c)
