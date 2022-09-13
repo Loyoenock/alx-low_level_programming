@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints lower alpha.
- *
- * Description: function that prints alphabeth in lower case letter.
+ * print_alphabet - prints lower alpha.
  *
  * Return : 0
  */
