@@ -3,7 +3,7 @@
 /**
  * main - prints lower alpha.
  *
- * Description: function to print lower case letters'
+ * Description: function that prints alphabeth in lower case letter.
  *
  * Return : 0
  */
