@@ -1,8 +1,8 @@
 #include "main.h"
 
 /*
- * print_times_table - prints the  times table with
- * @n: parameter
+ * print_times_table - prints multiplication tables
+ * @n: function to multiple numbers from 0
  * Return: returns nothing
  */
 void print_times_table(int n)
