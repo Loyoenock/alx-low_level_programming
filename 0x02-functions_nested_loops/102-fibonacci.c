@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - printing fibonacci numbers
  * Description: a program that returns 50 numbers from 0
  * Return: return 0
@@ -12,6 +11,7 @@ int main(void)
 
 	unsigned long n1 = 0, n2 = 1, n3;
 	for (inc = 0; inc < 50; inc++)
+
 	{
 		n3 = n1 + n2;
 		printf("%lu", n3);
