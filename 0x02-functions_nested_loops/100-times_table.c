@@ -2,6 +2,7 @@
 
 /*
  * print_times_table - prints multiplication tables from 0
+ * Description: This table is for multiplying numbers
  * @n: function to multiple numbers.
  * Return: returns nothing
  */
