@@ -1,9 +1,9 @@
 #include "main.h"
 
 /*
- * print_times_table - prints multiplication tables from 0
+ * print_times_table: prints multiplication tables from 0
  * Description: This table is for multiplying numbers
- * @n: function to multiple numbers.
+ * @n:no printing function when n is greater than 12 || < 0
  * Return: returns nothing
  */
 void print_times_table(int n)
