@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_times_table - Prints a multiplication table up to param
- * @n: The number to be treated
+ * print_times_table - Prints multiplication table from 0
+ * @n: fuction to return products
  * Return: Number matrix
  */
 void print_times_table(int n)
