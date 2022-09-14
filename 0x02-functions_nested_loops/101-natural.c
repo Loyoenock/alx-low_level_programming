@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- *
  * main - prints count of multiple
  * Description: a function the computes and print multiples of 3 & 5 > 1024.
  * Return: return 0
-*/
+ */
 int main(void)
 {
 	int n, sum = 0;
