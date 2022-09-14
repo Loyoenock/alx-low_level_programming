@@ -1,10 +1,9 @@
 #include "main.h"
 
-/*
- * print_times_table: prints multiplication tables from 0
- * Description: This table is for multiplying numbers
- * @n:no printing function when n is greater than 12 || < 0
- * Return: returns nothing
+/**
+ * print_times_table - Prints a multiplication table up to param
+ * @n: The number to be treated
+ * Return: Number matrix
  */
 void print_times_table(int n)
 {
