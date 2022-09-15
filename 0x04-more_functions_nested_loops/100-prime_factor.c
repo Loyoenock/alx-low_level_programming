@@ -2,7 +2,6 @@
 
 /**
  * main - prints largest prime factor of the number
- * 
  * Return: returns 0
  */
 
@@ -18,7 +17,6 @@ int main(void)
 			num /= 2;
 			continue;
 		}
-		
 		for (i = 3; i < num / 2; i += 2)
 		{
 			if (num % i == 0)
