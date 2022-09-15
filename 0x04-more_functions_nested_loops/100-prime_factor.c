@@ -10,20 +10,20 @@
 int main(void)
 {
 	long num = 612852475143;
-	
-	int i;
-	while (i++ < num / 2)
+	int inc;
+
+	while (inc++ < num / 2)
 	{
-	if (num % i == 0)
+	if (num % inc == 0)
 	{
 		num /= 2;
 		continue;
 	}
 
-	for (i = 3; i < num / 2; i += 2)
+	for (inc = 3; inc < num / 2; inc += 2)
 	{
-		if (num % i == 0)
-			num /= i;
+		if (num % inc == 0)
+			num /= inc;
 	}
 	}
 	printf("%ld\n", num);
