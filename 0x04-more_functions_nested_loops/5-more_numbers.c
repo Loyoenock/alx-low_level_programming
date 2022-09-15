@@ -4,7 +4,7 @@
 /**
  * more_numbers - printing numbers 10x from 1 to 14
  *
- * Return: 0
+ * Return: returns nothing
  */
 
 void more_numbers(void)
