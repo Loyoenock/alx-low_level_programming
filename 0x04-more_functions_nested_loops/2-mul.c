@@ -2,7 +2,8 @@
 
 /**
  * mul - product od two integers
- * Description: function to multiply two numbers
+ * @a: first int
+ * @b: second int
  * Return: 0
  */
 
