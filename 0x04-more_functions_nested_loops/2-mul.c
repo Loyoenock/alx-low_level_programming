@@ -1,7 +1,7 @@
 #incllude "main.h"
 
 /**
- * main - product od two integers
+ * mul - product od two integers
  * Description: function to multiply two numbers
  * Return: 0
  */
