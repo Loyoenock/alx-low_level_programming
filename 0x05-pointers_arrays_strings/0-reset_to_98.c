@@ -8,12 +8,5 @@
 
 void reset_to_98(int *n)
 {
-	int n;
-	int *p;
-
-	n = 98;
-	p = &n;
-	printf("Address of 'n': %p\n", &n);
-	printf("Valuse of 'p': %p\n", p);
-	return (0);
+	*n = 98;
 }
