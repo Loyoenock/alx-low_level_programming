@@ -1,5 +1,5 @@
 #include "main.h"
-#include <string.h>
+
 /**
  *_strcmp - String comparison
  *@s1: String number 1
@@ -11,29 +11,29 @@
 
 int _strcmp(char *s1, char *s2)
 {
-	int s = 0, diff = 0;
+	int i = 0, diff = 0;
 
 	while (1)
 	{
-		if (s1[s] == '\0' && s2[s] == '\0')
+		if (s1[i] == '\0' && s2[i] == '\0')
 			break;
-		else if (s1[s] == '\0')
+		else if (s1[i] == '\0')
 		{
-			diff = s2[s];
-			break;
-		}
-		else if (s2[s] == '\0')
-		{
-			diff = s1[s];
+			diff = s2[i];
 			break;
 		}
-		else if (s1[s] != s2[s])
+		else if (s2[i] == '\0')
 		{
-			diff = s1[s] - s2[s];
+			diff = s1[i];
+			break;
+		}
+		else if (s1[i] != s2[i])
+		{
+			diff = s1[i] - s2[i];
 			break;
 		}
 		else
-			s++
+			i++;
 	}
 	return (diff);
 }
