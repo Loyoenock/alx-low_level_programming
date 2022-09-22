@@ -1,15 +1,16 @@
 #include "main.h"
 
 /**
- * leet - encodes a string into 1337
- * @s: string to encode
- *
- * Return: address
- */
+*leet - encodes a string into 1337
+*@s: string
+*
+*Return: something
+*/
 
-char *leet(char *)
+char *leet(char *s)
 {
-	int i, j;
+	int i;
+	int j;
 	char a[] = "aAeEoOtTlL";
 	char b[] = "4433007711";
 
