@@ -6,7 +6,7 @@
  * @a: The start of matrix
  * @size: width for matrix column
  *
- * Return 0
+ * Return: void
  */
 void print_diagsums(int *a, int size)
 {
