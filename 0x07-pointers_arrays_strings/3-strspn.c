@@ -10,14 +10,14 @@
 
 unsigned int _strspn(char *s, char *accept)
 {
-	int a;
+	int i;
 
-	for (a = 0; *(s + a); a++)
+	for (i = 0; *(s + i); i++)
 	{
-		if (*(s + a) == c)
-			return (s + a);
+		if (*(s + i) == c)
+			return (s + i);
 	}
-	if (*(s + a) == c)
-		return (s + a);
+	if (*(s + i) == c)
+		return (s + i);
 	return (0);
 }
