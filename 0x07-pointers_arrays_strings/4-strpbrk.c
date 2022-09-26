@@ -22,5 +22,5 @@ char *_strpbrk(char *s, char *accept)
 		if (!accept[j])
 			break;
 	}
-	return (0);
+	return (i);
 }
