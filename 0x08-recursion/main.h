@@ -1,5 +1,5 @@
 #ifndef MAIN_H
-#define MAIN.H
+#define MAIN_H
 
 /**
  * void prototype()
@@ -15,5 +15,5 @@ int _sqrt_recursion(int n);
 int is_prime_number(int n);
 int _putchar(char c);
 
-#endif /*MAIN.H*/
+#endif /*MAIN_H*/
 
