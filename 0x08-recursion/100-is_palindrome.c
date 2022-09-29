@@ -20,7 +20,7 @@ int is_palindrome(char *s)
  * @s: string
  * @start: start index
  * @end: end index
- * #flag: indicates for palindrome string
+ * @flag: indicates for palindrome string
  *
  * Return: void
  */
