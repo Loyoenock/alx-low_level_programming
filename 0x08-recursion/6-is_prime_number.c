@@ -3,7 +3,7 @@
 /**
  * is_prime - Prints whether prime
  * @i:  integer
- * @n: integer 
+ * @n: integer
  * Return: 1 else 0.
  */
 int is_prime(int i, int n)
