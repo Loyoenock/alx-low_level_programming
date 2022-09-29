@@ -16,6 +16,8 @@ int is_prime_number(int n);
 int _putchar(char c);
 int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
+void check(char *s, int start, int end, int *flag);
+int _sqrt(int n, int x);
 
 #endif /*MAIN_H*/
 
