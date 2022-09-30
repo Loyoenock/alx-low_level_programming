@@ -6,7 +6,7 @@
  * int prototype()
  */
 
-int putchar(int char);
+int putchar(int c);
 int check_num(char *str);
 
 #endif /*MAIN_H*/
