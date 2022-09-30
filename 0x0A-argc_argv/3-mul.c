@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include "main.h"
 
 /**
@@ -19,5 +20,5 @@ if (argc == 3)
 	return (0);
 }
 	printf("Error\n");
-	return (0);
+	return (1);
 }
