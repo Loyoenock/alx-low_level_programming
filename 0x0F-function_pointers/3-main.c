@@ -1,4 +1,6 @@
 #include "3-calc.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 /**
  * main - a program for simple math operation
@@ -27,5 +29,6 @@ int main(int argc, char *argv[])
 	}
 	result = f(num1, num2);
 	printf("%d\n", result);
+
 	return (0);
 }
