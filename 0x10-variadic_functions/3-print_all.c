@@ -22,6 +22,7 @@ void print_c(va_list c)
 void print_s(va_list s)
 {
 	char *str = va_arg(s, char *);
+
 	if (str == NULL)
 		str = "(nil)";
 	printf("%s", str);
@@ -70,7 +71,7 @@ void print_all(const char * const format, ...)
 	i = 0;
 	while (format && format[i])
 	{
-		j =0;
+		j = 0;
 		while (p[j].t != NULL)
 		{
 			if (*(p[j].t) == format[i])
