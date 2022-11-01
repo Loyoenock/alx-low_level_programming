@@ -20,6 +20,7 @@ char *create_buffer(char *file)
 	{
 		dprintf(STDERR_FILENO,
 			"Error: Can't write to File %s\n", file);
+		exit(99);
 
 	}
 	return (buffer);
@@ -43,6 +44,7 @@ void close_file(int fd)
  * main - copies content to a file.
  * @argc: Number of arguements
  * @argv: Pointer array to arg
+ *
  * Return: 0
  *
  * Description: if the number of argument is not the correct one,
